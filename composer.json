@@ -1,12 +1,12 @@
 {
     "name": "sorethea/utility",
     "description": "",
-    "type": "",
-    "version": "1.0.0",
+    "type": "laravel-modules",
+    "version": "dev",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Sorethea OK",
+            "email": "sorethea@gmail.com"
         }
     ],
     "extra": {
