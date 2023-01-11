@@ -1,0 +1,27 @@
+{
+    "name": "sorethea/utility",
+    "description": "",
+    "type": "",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Utility\\Providers\\UtilityServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Utility\\": ""
+        }
+    }
+}
